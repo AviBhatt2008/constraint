@@ -1,2 +1,2 @@
-# constraint
-a constraint is between the bird and a log
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
